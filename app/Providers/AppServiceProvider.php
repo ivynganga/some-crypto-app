@@ -23,6 +23,12 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+<<<<<<< HEAD
         //
+=======
+        if (env('APP_ENV') != 'local') {
+            \URL::forceScheme('https');  
+        } 
+>>>>>>> ad5284e475cd5dfe0f0f7d9f7be2f3137d201097
     }
 }
