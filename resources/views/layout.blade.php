@@ -4,11 +4,12 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Crypto Price in KESs</title>
+	<title>Crypto Price in KES</title>
 
 	<link rel="stylesheet" href="/css/app.css">
 	<link rel="stylesheet" href="/css/style.css">
-	
+	<link rel="icon" href="favicon.ico"/>
+
 	<script src="/js/app.js" defer></script>
 	<script src="/js/style.js" defer></script>
 
