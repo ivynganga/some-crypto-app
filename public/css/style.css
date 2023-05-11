@@ -58,3 +58,8 @@ hr {
 .crypto-row {
 	margin-top: -30px;
 }
+
+.last-update {
+	font-size: 85%;
+	letter-spacing: 0.5px;
+}
